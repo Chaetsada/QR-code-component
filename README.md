@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/building-qr-code-component-5bY5qUlvFL](https://your-solution-url.com)
 - Live Site URL: [https://ephemeral-panda-7b0212.netlify.app/](https://your-live-site-url.com)
 
 ## My process
